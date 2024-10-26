@@ -5,7 +5,7 @@ import time
 
 pygame.init()
 
-screen_width = 1500
+screen_width = 1505
 screen_height = 780
 screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("Match-3 Game")
